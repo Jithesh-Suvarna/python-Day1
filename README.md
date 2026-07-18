@@ -100,7 +100,6 @@ Python-CLI-Calculator/
 │
 ├── main.py
 ├── README.md
-└── .gitignore
 ```
 
 ---
