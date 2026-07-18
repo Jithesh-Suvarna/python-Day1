@@ -1,5 +1,9 @@
 # 🧮 Python CLI Calculator
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![GitHub](https://img.shields.io/badge/GitHub-100%20Days-black?logo=github)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+
 A simple **Command-Line Calculator** built using Python that performs multiple mathematical operations on user-provided numbers. This project is part of my **100 Days, 100 Projects GitHub Challenge**.
 
 ---
